@@ -11,4 +11,5 @@ Below you can see some screenshots:
 Ok, so after you've deployed token, you can do some basic activities of ERC-20 token, but also you can check time when coin were mined in human-readable way
 You can check informations about senders and receivers, etc.
 See it down below:
+
 ![img3](https://github.com/thgank/blockchain-as1/assets/122772347/0f97832a-0c23-4998-9bf6-eb74df5a05d5)
